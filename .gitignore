@@ -1,0 +1,5 @@
+venv/
+.ipynb_checkpoints/
+__pycache__/
+notebooks/Online Retail.csv
+*.pyc
